@@ -43,13 +43,7 @@
 
 5. EXPLICACIÓN
 
-![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%201.png)
 
-![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%202.png)
-
-![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%203.png)
-
-![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%204.png)
 
 * Tabla Valores del Circuito Equivalente de Thévenin
 
