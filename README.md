@@ -44,12 +44,19 @@
 5. EXPLICACIÓN
 
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%201.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%202.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%203.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%204.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%205.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Errores.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Tabla%201.png)
+
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Tabla%202.png)
 
 6. MANUAL DE USUARIO
