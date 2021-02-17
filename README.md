@@ -51,11 +51,11 @@
 
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%204.png)
 
-![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%205.png)
-
-![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Errores.png)
+* Tabla Valores del Circuito Equivalente de Thévenin
 
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Tabla%201.png)
+
+* Tabla Comprobación del Teorema de Thévenin
 
 ![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Tabla%202.png)
 
