@@ -18,19 +18,39 @@
 
 3. DIAGRAMAS
 
+* Circuito de Tinkercad Original (Medicion de Voltaje y Amperaje)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Circuito%20original.png)
+* Circuito medicion del Voltaje de Thévenin
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Voltaje%20de%20The%CC%81venin.png)
+* Circuito medicion de la Resistencia de Thévenin
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Resistencia%20de%20The%CC%81venin.png)
+* Circuito Equivalente de Thévenin (Voltaje y Amperaje)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Circuito%20Equivalente.png)
+
 4. LISTA DE COMPONENTES
 
 | CANTIDAD | MATERIAL O EQUIPO |
 | ------------- | ------------- |
 | 2 | Fuentes de Voltaje CD  |
 | 2 | Multímetros Digitales |
-| 1 | Resistor de 1 kΩ |
-| 1 | Resistor de 2.2 kΩ |
-| 1 | Resistor de 820 Ω  |
-| 1 | Resistor de 470 Ω  |
+| 1 | Resistor de 560 Ω |
+| 1 | Resistor de 4.7 kΩ |
+| 1 | Resistor de 330 Ω  |
+| 1 | Resistor de 100 Ω  |
+| 1 | Resistor de 1 kΩ  |
+| 1 | Potenciometro de presición de 1 kΩ |
 | 1 | Protoboard  |
 
 5. EXPLICACIÓN
+
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%201.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%202.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%203.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%204.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Calculo%205.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Errores.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Tabla%201.png)
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Tabla%202.png)
 
 6. MANUAL DE USUARIO
 
