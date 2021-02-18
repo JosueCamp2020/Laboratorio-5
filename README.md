@@ -14,7 +14,7 @@
 
 2. MARCO TEORICO
 
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-5/blob/main/Imagenes/Teorema%20de%20The%CC%81venin.jpeg)
 
 3. DIAGRAMAS
 
