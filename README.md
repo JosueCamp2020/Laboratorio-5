@@ -74,4 +74,16 @@
 
 7. CONCLUSIONES
 
+*	El teorema de thévenin logra que un circuito complejo se convierta en uno más simple. Ya que al tener un circuito complejo con más de 2 fuentes de voltaje se lo puede transformar a un circuito equivalente más simple, la teoría indica que a través de la resistencia del circuito transformado la corriente seguirá circulando. 
+*	Los valores de thevenin es como si fueran los "Valores de resistencia y tensión que se verían en el circuito desde los puntos A y B.
+Si se mide con el polímetro la tensión entre los puntos A y B sería la misma que la que calcularemos y llamaremos tensión de thevenin, y si midiera con el polímetro la resistencia entre los puntos A y B, quitando la resistencia original (de carga), nos mediría la Resistencia de Thevenin.
+*	Cuando se construye un circuito equivalente de Thevenin, es posible realizar cálculos más sencillos y en menos tiempo que al trabajar con el circuito completo original. Para lograr aplicar el teorema correctamente, se deben realizar estos pasos:
+1)	Al eliminar las fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thevenin. Luego se deberá calcular el valor de la resistencia total que existe entre los punto A y B donde se encuentre conectada la resistencia de carga.
+2)	Para el caso de hallar la tensión de Thevenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde esta se encontraba.
+3)	Construye el circuito equivalente utilizando la tensión de Thevenin y la resistencia de Thevenin en serie. Conecta la resistencia de carga entre los puntos de conexión abiertos de este circuito.
+4)	Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
+
 8. BIBLIOGRAFIA
+
+* Area tecnologia. (24 de 02 de 2018). areatecnologia.com. Obtenido de https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
+* Xnomind. (07 de 11 de 2019 ). teorema.top. Obtenido de https://www.teorema.top/teorema-de-thevenin/
